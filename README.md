@@ -29,5 +29,6 @@ ing behavior matter.
 Dataset has been filtered to Credit Card Debt and Federal Student Loan Debt
 
 Zarek and Sami: Credit Card Debt
+
 Drew and Munim: Federal Student Loan Debt
 
