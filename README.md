@@ -26,3 +26,6 @@ Important caution. Complaints are not representative of all customers. Complaint
 alone cannot establish which company is worse: company size, market share, and report-
 ing behavior matter.
 
+Dataset has been filtered to Credit Card Debt and Federal Student Loan Debt
+Credit Card Debt is being worked on by Zarek and Sami
+Federal Student Loan Debt is being worked on by Drew and Munim
