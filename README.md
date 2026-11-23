@@ -1,6 +1,9 @@
 # Data-Science-Group-7-project
 This is the storage for all our work on the group 7 project
 
+# To start with all unorganized work done by each person can be stored in their own folder with that persons name in the main directory 
+This data can be organized automatically by AI after as well to speed up our project documentation for the presenation
+
 
 Project selected is the Project Example number 4 from [link to project examples pdf] which is 
 
