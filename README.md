@@ -27,5 +27,7 @@ alone cannot establish which company is worse: company size, market share, and r
 ing behavior matter.
 
 Dataset has been filtered to Credit Card Debt and Federal Student Loan Debt
-Credit Card Debt is being worked on by Zarek and Sami
-Federal Student Loan Debt is being worked on by Drew and Munim
+
+Zarek and Sami: Credit Card Debt
+Drew and Munim: Federal Student Loan Debt
+
